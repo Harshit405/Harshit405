@@ -1,185 +1,116 @@
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harshit Settipalli</h1>
 
-# Harshit Settipalli
+<h3 align="center">
+  ECE Student | VLSI | FPGA Design | Embedded Systems | Satellite Communications
+</h3>
 
-### VLSI | FPGA Design | Embedded Systems | Satellite Communications
-
-Electronics & Communication Engineering Enthusiast
-
-📍 India 🇮🇳
-
-<p>
-  <a href="https://github.com/Harshit405">
-    <img src="https://img.shields.io/badge/GitHub-Harshit405-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-  </a>
-  <a href="https://www.linkedin.com/in/harshit-settipalli-073356267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Exploring+VLSI+%26+Digital+Design;Learning+FPGA+%26+Verilog+HDL;Building+Embedded+Systems;Exploring+Satellite+Communications" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harshit405&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-## Professional Summary
+## About Me
 
-I am an Electronics and Communication Engineering enthusiast with an interest in digital hardware design, embedded systems, and wireless communication technologies.
-
-My technical interests include FPGA development, Verilog HDL, microcontroller-based systems, circuit simulation, UI/UX design, and satellite communication systems. I enjoy applying engineering concepts through simulation, hardware prototyping, programming, and practical experimentation.
-
-My long-term objective is to contribute to reliable electronic systems for aerospace, communications, and space technology applications.
+- 🎓 Electronics and Communication Engineering (ECE) student.
+- 💻 Interested in digital hardware design, VLSI, and FPGA engineering.
+- 🔌 Exploring embedded systems, microcontrollers, and IoT.
+- 🛰️ Interested in satellite communications, RF systems, and ground stations.
+- 📡 Learning wireless communication and 5G technologies.
+- 🎨 Familiar with UI/UX design and prototyping using Figma.
+- 🚀 Passionate about learning through practical engineering projects.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages & Web Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5">
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3">
-</p>
-
-### VLSI, FPGA & Embedded Systems
+### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Verilog%20HDL-RTL%20Design-6A5ACD?style=flat-square" alt="Verilog HDL">
-  <img src="https://img.shields.io/badge/FPGA-Digital%20Design-0071C5?style=flat-square" alt="FPGA">
-  <img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32%20%7C%20ESP8266-IoT%20Development-E7352C?style=flat-square" alt="ESP32 and ESP8266">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" alt="Programming skills" />
 </p>
 
-### Engineering, Design & Simulation Tools
+### Hardware and Embedded Systems
 
 <p>
-  <img src="https://img.shields.io/badge/Intel-Quartus%20Prime-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel Quartus Prime">
-  <img src="https://img.shields.io/badge/MATLAB-System%20Simulation-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-1C3552?style=flat-square" alt="Proteus">
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Arduino%20IDE-Firmware%20Development-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino IDE">
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/Verilog%20HDL-Design-blue?style=for-the-badge" alt="Verilog HDL" />
+  <img src="https://img.shields.io/badge/FPGA-Digital%20Design-purple?style=for-the-badge" alt="FPGA" />
+  <img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32%20%2F%20ESP8266-IoT-black?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 and ESP8266" />
 </p>
 
----
+### Tools and Technologies
 
-## Core Areas of Interest
-
-| Domain | Focus Areas |
-|---|---|
-| VLSI & Digital Design | Verilog HDL, RTL design fundamentals, digital logic |
-| FPGA Engineering | FPGA development, hardware description languages, simulation |
-| Embedded Systems | Microcontrollers, firmware, sensors, hardware interfacing |
-| Wireless Communications | RF fundamentals, 5G, modulation, MIMO |
-| Satellite Technology | Satellite signal reception, ground stations, space communications |
-| UI/UX Design | Figma, wireframing, interface design, prototyping |
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-Simulation-orange?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-blue?style=for-the-badge" alt="Proteus" />
+  <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-FPGA%20Tools-0071C5?style=for-the-badge" alt="Intel Quartus Prime" />
+  <img src="https://img.shields.io/badge/Figma-UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Arduino%20IDE-Development-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and VS Code" />
+</p>
 
 ---
 
 ## Featured Engineering Projects
 
-### 01. Intelligent Street Lighting System Using IoT
+> Add links to your actual project repositories below. Keep only projects you have genuinely implemented or simulated.
 
-An embedded system designed to explore adaptive street lighting and environmental monitoring using sensors, microcontrollers, and wireless communication.
+### 1. Intelligent Street Lighting System Using IoT
+- Microcontroller-based street lighting and energy conservation.
+- Sensor-based environmental and motion monitoring.
+- **Technologies:** Arduino, ESP8266, sensors, IoT.
 
-**Technologies:** Arduino, ESP8266, sensors, IoT
+### 2. Wireless Communication and 5G Simulations
+- MATLAB simulations of wireless communication concepts.
+- Explore modulation, throughput, SNR, and 5G network technologies.
+- **Technologies:** MATLAB, wireless communications.
 
-### 02. Wireless Communication & 5G Network Simulations
+### 3. Satellite Ground Station Exploration
+- Explore receiving signals from real satellites using a ground station.
+- Learn about antennas, RF reception, and satellite tracking.
+- **Technologies:** SDR, antennas, RF fundamentals.
 
-A collection of MATLAB experiments investigating modulation schemes, signal-to-noise ratio, MIMO, wireless channel characteristics, and communication network performance.
-
-**Technologies:** MATLAB, digital communications, 5G
-
-### 03. Satellite Communication & Ground Station Exploration
-
-Exploring low-cost hardware approaches for receiving and analyzing satellite-transmitted signals, with the goal of developing a practical satellite ground station.
-
-**Technologies:** RF fundamentals, signal reception, embedded hardware
-
-### 04. FPGA & Digital Logic Design
-
-Exploring digital circuit implementation, hardware description languages, and FPGA development workflows.
-
-**Technologies:** Verilog HDL, Intel Quartus Prime, FPGA
-
-### 05. UI/UX Design & Prototyping
-
-Developing interface concepts, wireframes, and prototypes for web applications and engineering-focused projects.
-
-**Technologies:** Figma, UI/UX design, prototyping
-
-> Add links to your actual project repositories, design files, and test results as they become available. Ensure each description accurately reflects your implementation.
+### 4. Digital Design and FPGA
+- Explore digital logic, RTL design, and Verilog HDL.
+- Add your completed simulations or FPGA implementations here.
+- **Technologies:** Verilog HDL, FPGA tools.
 
 ---
 
-## Current Learning Focus
+## GitHub Analytics
 
-- FPGA-based digital design using Verilog HDL
-- RTL design and functional verification
-- Embedded firmware and microcontroller interfacing
-- RF fundamentals and satellite communication systems
-- Digital communications and 5G technologies
-- UI/UX design and prototyping using Figma
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshit405&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit405&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
 
----
-
-## GitHub Statistics
-
-<div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Harshit405&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-    alt="Harshit405 GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit405&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-    alt="Harshit405 Most Used Languages"
-  />
-
-</div>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=Harshit405&theme=github-dark-blue&hide_border=true"
-    height="170"
-    alt="GitHub Contribution Streak"
-  />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harshit405&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
 ## Connect With Me
 
-<p>
-  <a href="https://github.com/Harshit405">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<p align="left">
+  <a href="https://github.com/Harshit405" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://www.linkedin.com/in/harshit-settipalli-073356267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/harshit-settipalli-073356267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-
-**Design. Simulate. Verify. Build.**
-
-*Building toward the future of hardware, communications, and space technology.*
-
-</div>
+<p align="center">
+  <b>Design. Simulate. Verify. Build.</b>
+  <br />
+  <i>Building toward the future of hardware, communications, and space technology.</i>
+</p>
