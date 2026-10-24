@@ -1,90 +1,123 @@
-<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-My name is <b>Harshit Settipalli</b> and I'm a <b>VLSI & Embedded Systems Enthusiast</b>,<br>
-working with <b>FPGA, Verilog HDL, and Embedded Development</b>.<br>
-Based in <b>India 🇮🇳</b> | Currently in <b>Malaysia 🇲🇾</b>.
-</p>
+<div align="center">
 
+# Harshit Settipalli
 
----
+### VLSI | FPGA Design | Embedded Systems | Satellite Communications
 
-<h2 align="left">About me</h2>
+**Electronics & Communication Engineering Enthusiast**
 
-<p align="left">
-✨ Creating bugs since my first Verilog simulation<br>
-📚 Currently learning FPGA design, Verilog HDL, and satellite communication systems<br>
-🎯 Goal: Build reliable hardware systems and contribute to space & communication research<br>
-🎲 Fun fact: I trust waveform windows more than print statements 😄
-</p>
+Based in India 🇮🇳
 
----
+<br>
 
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-</div>
-
----
-
-<h2 align="left">Engineering & Simulation Tools</h2>
-
-<div align="left">
-  <!-- MATLAB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB" />
-  <img width="12" />
-
-  <!-- Proteus (no official icon → text badge) -->
-  <img src="https://img.shields.io/badge/Proteus-1C3552?style=for-the-badge&logoColor=white" height="28" />
-  <img width="12" />
-
-  <!-- Cisco Packet Tracer -->
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="28" />
-  <img width="12" />
-
-  <!-- Intel Quartus Prime -->
-  <img src="https://img.shields.io/badge/Intel%20Quartus%20Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="28" />
-  <img width="12" />
-
-  <!-- Arduino IDE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-</div>
-
----
-<h2 align="left">🔗 Connect with me</h2>
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/harshit-settipalli-073356267" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- X (Twitter) -->
-<a href="https://x.com/YOUR_LINK_HERE" target="_blank">
-  <img src="https://img.icons8.com/color/48/twitterx--v1.png" height="32" alt="X"/>
+<a href="https://www.linkedin.com/in/harshit-settipalli-073356267/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+</div>
 
-  <!-- Portfolio (colored globe) -->
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" height="32" alt="Portfolio"/>
-  </a>
+---
+
+## Profile
+
+I am an Electronics and Communication Engineering enthusiast focused on digital hardware design, embedded systems, and wireless communication technologies. My technical interests span FPGA-based design, Verilog HDL, microcontroller development, hardware simulation, and satellite communication systems.
+
+I enjoy translating engineering concepts into practical implementations through simulation, prototyping, and systematic testing.
+
+My long-term goal is to contribute to the development of reliable electronic systems for communication, aerospace, and space technology applications.
+
+## Technical Competencies
+
+### Digital Hardware & Embedded Systems
+
+- **HDL & Digital Design:** Verilog HDL, RTL design fundamentals, digital logic
+- **FPGA Development:** Intel Quartus Prime, FPGA design and simulation
+- **Embedded Development:** Arduino, ESP32, ESP8266, microcontroller interfacing
+- **Hardware Design:** Circuit prototyping, sensor integration, firmware development
+
+### Programming & Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5">
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3">
 </p>
 
-<p align="center">
-⭐ Thanks for visiting my GitHub 
+### Engineering Software & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Intel-Quartus%20Prime-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel Quartus Prime">
+  <img src="https://img.shields.io/badge/MATLAB-Technical%20Computing-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-1C3552?style=flat-square" alt="Proteus">
+  <img src="https://img.shields.io/badge/Arduino-Embedded%20Prototyping-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
 </p>
+
+## Selected Engineering Projects
+
+### 01 — Intelligent Street Lighting System Using IoT
+Designed an embedded monitoring and adaptive lighting concept using microcontrollers, environmental sensors, and wireless communication.
+
+**Focus:** Embedded systems · IoT · Sensor integration · Energy efficiency
+
+### 02 — Wireless Communication & 5G Network Simulations
+Developed MATLAB experiments to study modulation techniques, signal-to-noise ratio, MIMO, wireless channel behavior, and network performance.
+
+**Focus:** MATLAB · Digital communications · 5G · System modeling
+
+### 03 — Satellite Communication & Ground Station Exploration
+Exploring practical approaches to receiving and analyzing signals transmitted by satellites, with an interest in developing low-cost ground station hardware.
+
+**Focus:** RF fundamentals · Satellite communications · Signal reception
+
+### 04 — FPGA & Digital Logic Design
+Developing knowledge of digital logic implementation, hardware description languages, and FPGA-based system design.
+
+**Focus:** Verilog HDL · RTL fundamentals · Intel Quartus Prime
+
+> Project descriptions should be updated to reflect the actual implementation and results of each repository.
+
+## Current Learning Focus
+
+- FPGA-based digital system design using Verilog HDL
+- Embedded firmware development and hardware interfacing
+- RF communication principles and satellite signal reception
+- Digital communication systems and 5G technologies
+- Hardware testing, debugging, and verification
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages">
+
+</div>
+
+## Professional Links
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/harshit-settipalli-073356267/)
+- **GitHub:** [Explore my repositories](https://github.com/YOUR_GITHUB_USERNAME)
+- **Areas of Interest:** VLSI, FPGA, Embedded Systems, Wireless Communications, and Space Technology
+
+---
+
+<div align="center">
+
+*Engineering reliable systems through design, simulation, and experimentation.*
+
+</div>
