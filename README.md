@@ -59,7 +59,6 @@
 
 ## Featured Engineering Projects
 
-> Add links to your actual project repositories below. Keep only projects you have genuinely implemented or simulated.
 
 ### 1. Intelligent Street Lighting System Using IoT
 - Microcontroller-based street lighting and energy conservation.
