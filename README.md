@@ -22,7 +22,6 @@
 - 🔌 Exploring embedded systems, microcontrollers, and IoT.
 - 🛰️ Interested in satellite communications, RF systems, and ground stations.
 - 📡 Learning wireless communication and 5G technologies.
-- 🎨 Familiar with UI/UX design and prototyping using Figma.
 - 🚀 Passionate about learning through practical engineering projects.
 
 ---
